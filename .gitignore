@@ -1,0 +1,11 @@
+node_modules/
+venv/
+temp/
+Config.py
+.idea/
+*.db
+__pycache__/
+.DS_Store
+inputs/
+app_data/
+intermediaries/
